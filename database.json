@@ -1,0 +1,888 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jeremy Whitney",
+      "email": "jeremywhitney@email.com",
+      "location": "Nashville, TN",
+      "about": "About me"
+    },
+    {
+      "id": 2,
+      "name": "Caitlin Stein",
+      "email": "caitlinstein@email.com",
+      "location": "Nashville, TN",
+      "about": "I majored in music in college, and I was a band director for a while, but now I'm just a hobbyist. Most of the music I play is classical in nature. My dogs are Rufio and Annie."
+    },
+    {
+      "id": 3,
+      "name": "James Hilton",
+      "email": "jameshilton@email.com",
+      "location": "New Haven, CT",
+      "about": "I am a weekend warrior who listens to everything but country music. My influences are all over the map... King Crimson to Periphery, The Beatles to Umphreys McGee, Frank Zappa to Rise Against, etc. I play mainly punk and metal but have a background in jazz and classical music."
+    },
+    {
+      "id": 4,
+      "name": "Zach Mosher",
+      "email": "zachmosher@email.com",
+      "location": "Nashville, TN",
+      "about": "I'm a hobbiest/weekend warrior - I play drums for couple different artists of various styles around town. I love playing and listening to indie/alt rock and jazz/soul. Biggest influences are Nate Smith, Avishai Cohen, Mark Guiliana, Benny Greb."
+    },
+    {
+      "id": 5,
+      "name": "Abby Paradise",
+      "email": "abbyparadise@email.com",
+      "location": "Nashville, TN",
+      "about": "Not in a band, played piano for 15 years and still tinkle the ivories, I’ve taught myself the ukelele and just generally love music. I love love music and seeing bands perform. The energy and community alone is incredible."
+    },
+    {
+      "id": 6,
+      "name": "Andy Cass",
+      "email": "andycass@email.com",
+      "location": "Northampton, MA",
+      "about": "Full time engineer and producer/musician"
+    },
+    {
+      "id": 7,
+      "name": "Domenic Gubernat",
+      "email": "domenicgubernat@email.com",
+      "location": "Forked River, NJ",
+      "about": "Music lover and part time musician"
+    },
+    {
+      "id": 8,
+      "name": "Ryan Phillips",
+      "email": "ryanphillips@email.com",
+      "location": "Nashville, TN",
+      "about": "Bedroom jammin in my jam jams. I like alternative rock, jazz, chillout, traditional folk, hip hop, classical, and psychedelic funk. I am influenced by artists such as Bjork, Khruangbin, Radiohead, The Band, Natalia Lafourcade, DJ Premier, J Dilla, Johnny Marr, Tinariwen, LCD Soundsystem, and so many others. I am not in a band. My dog’s name is Flora. She is half Australian cattle dog half treeing walker coon hound"
+    },
+    {
+      "id": 9,
+      "name": "Alex Nosenzo",
+      "email": "alexnosenzo@email.com",
+      "location": "Portland, CT",
+      "about": "I play guitar, bass, drums and do some home recording. I listen to a bit of everything, but my truest love is within specific subgenre's of metal and punk."
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Fender"
+    },
+    {
+      "id": 2,
+      "name": "Gibson"
+    },
+    {
+      "id": 3,
+      "name": "Gretsch"
+    },
+    {
+      "id": 4,
+      "name": "Epiphone"
+    },
+    {
+      "id": 5,
+      "name": "Yamaha"
+    },
+    {
+      "id": 6,
+      "name": "Martin"
+    },
+    {
+      "id": 7,
+      "name": "Vox"
+    },
+    {
+      "id": 8,
+      "name": "Fox"
+    },
+    {
+      "id": 9,
+      "name": "Buffet"
+    },
+    {
+      "id": 10,
+      "name": "GMS"
+    },
+    {
+      "id": 11,
+      "name": "Ludwig"
+    },
+    {
+      "id": 12,
+      "name": "Dream Cymbals"
+    },
+    {
+      "id": 13,
+      "name": "Sonor"
+    },
+    {
+      "id": 14,
+      "name": "Wurlitzer"
+    },
+    {
+      "id": 15,
+      "name": "Hammond"
+    },
+    {
+      "id": 16,
+      "name": "Trident"
+    },
+    {
+      "id": 17,
+      "name": "Korg"
+    },
+    {
+      "id": 18,
+      "name": "AEA"
+    },
+    {
+      "id": 19,
+      "name": "Jupiter"
+    },
+    {
+      "id": 20,
+      "name": "Hora"
+    },
+    {
+      "id": 21,
+      "name": "Luna"
+    },
+    {
+      "id": 22,
+      "name": "Earthquaker Devices"
+    },
+    {
+      "id": 23,
+      "name": "MXR"
+    },
+    {
+      "id": 24,
+      "name": "Xotic"
+    },
+    {
+      "id": 25,
+      "name": "First Act"
+    },
+    {
+      "id": 26,
+      "name": "EFNOTE"
+    },
+    {
+      "id": 27,
+      "name": "Sovtek"
+    },
+    {
+      "id": 28,
+      "name": "Univox"
+    },
+    {
+      "id": 29,
+      "name": "Electronic Audio Experiments"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guitars"
+    },
+    {
+      "id": 2,
+      "name": "Bass"
+    },
+    {
+      "id": 3,
+      "name": "Drums"
+    },
+    {
+      "id": 4,
+      "name": "Keyboards"
+    },
+    {
+      "id": 5,
+      "name": "Pedals"
+    },
+    {
+      "id": 6,
+      "name": "Amplifiers"
+    },
+    {
+      "id": 7,
+      "name": "Recording"
+    },
+    {
+      "id": 8,
+      "name": "Band & Orchestra"
+    },
+    {
+      "id": 9,
+      "name": "Other"
+    }
+  ],
+  "conditions": [
+    {
+      "id": 1,
+      "grade": "Mint"
+    },
+    {
+      "id": 2,
+      "grade": "Excellent"
+    },
+    {
+      "id": 3,
+      "grade": "Very Good"
+    },
+    {
+      "id": 4,
+      "grade": "Good"
+    },
+    {
+      "id": 5,
+      "grade": "Fair"
+    },
+    {
+      "id": 6,
+      "grade": "Poor"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 4,
+      "model": "Stratocaster",
+      "year": 2004,
+      "forSale": false,
+      "description": "MIM Standard; Arctic White; Lollar Pickups; Emerson wiring harness",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 4,
+      "model": "Telecaster Custom",
+      "year": 1986,
+      "forSale": false,
+      "description": "MIJ TL-62B; Candy Apple Red",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "brandId": 2,
+      "categoryId": 1,
+      "conditionId": 4,
+      "model": "Les Paul Standard",
+      "year": 1987,
+      "forSale": false,
+      "description": "Ebony; B7 Bigsby",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "brandId": 3,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "G5135-CVT Electromatic Corvette",
+      "year": 2009,
+      "forSale": false,
+      "description": "Cherry Stain; B5 Bigsby; replaced output jack plate",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "brandId": 4,
+      "categoryId": 1,
+      "conditionId": 2,
+      "model": "USA Casino",
+      "year": 2023,
+      "forSale": false,
+      "description": "Royal Tan; going away gift from my time working at Gibson USA",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 6,
+      "userId": 1,
+      "brandId": 4,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "John Lennon EJ-160E",
+      "year": "",
+      "forSale": true,
+      "description": "Vintage Sunburst; needs a setup",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "brandId": 5,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "Pacifica",
+      "year": "",
+      "forSale": false,
+      "description": "My first guitar!",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 8,
+      "userId": 1,
+      "brandId": 6,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "LXK2 Little Martin",
+      "year": "",
+      "forSale": false,
+      "description": "Koa; an awesome little travel guitar",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 9,
+      "userId": 1,
+      "brandId": 7,
+      "categoryId": 6,
+      "conditionId": 3,
+      "model": "AC15C1",
+      "year": "",
+      "forSale": false,
+      "description": "",
+      "image": "",
+      "timestamp": "2024-07-21"
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "brandId": 8,
+      "categoryId": 8,
+      "conditionId": 3,
+      "model": "Renard 220",
+      "year": "1998",
+      "forSale": false,
+      "description": "A long bore bassoon",
+      "image": "",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "brandId": 9,
+      "categoryId": 8,
+      "conditionId": 2,
+      "model": "R-13",
+      "year": "2006",
+      "forSale": true,
+      "description": "The most popular clarinet model",
+      "image": "",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "brandId": 10,
+      "categoryId": 3,
+      "conditionId": 2,
+      "model": "CL",
+      "year": "2004",
+      "forSale": false,
+      "description": "7 pc GMS CL Series in tobacco burst. This kit is my baby. Hand painted at GMS and lives in my studio.",
+      "image": "https://drive.google.com/open?id=1KiPzu0Gyywc4ExNaCls4n2dKSkmjcCeh",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 13,
+      "userId": 3,
+      "brandId": 11,
+      "categoryId": 3,
+      "conditionId": 4,
+      "model": "Vistalite",
+      "year": "1970s (early)",
+      "forSale": false,
+      "description": "1970s Ludwig Blue Vistalite 6 pc kit. Tom sizes 12, 13, 15, 16. 22 inch bass drum. 14 inch snare.",
+      "image": "https://drive.google.com/open?id=1iWk-VzbszRmRfUPpaunqBhilA7D3LEdp",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "brandId": 2,
+      "categoryId": 1,
+      "conditionId": 2,
+      "model": "Les Paul Studio",
+      "year": "2016",
+      "forSale": false,
+      "description": "2016 Gibson Les Paul Studio in Wine Red.",
+      "image": "https://drive.google.com/open?id=1GbVdFGBo95OtUJWMqbixYWlQgq9MDJSj",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 15,
+      "userId": 4,
+      "brandId": 12,
+      "categoryId": 3,
+      "conditionId": 3,
+      "model": "Bliss 22 in. Ride",
+      "year": "2012",
+      "forSale": true,
+      "description": "I got this ride over 10 years ago and every year I've had it it gets darker and drier, and I love it more every year.",
+      "image": "https://drive.google.com/open?id=1Lr43x8WRHeNWQU0tohBJ2GIsMii6-mF2",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 16,
+      "userId": 4,
+      "brandId": 13,
+      "categoryId": 3,
+      "conditionId": 2,
+      "model": "Benny Greb Signature Snare",
+      "year": "",
+      "forSale": false,
+      "description": "This is a 13 by 5.75 inch made with thin beech shells. Sounds great tuned high or low, muffled or not. Great with many styles.",
+      "image": "https://drive.google.com/open?id=1mQy_c_dk8z23WebnQBDA7z5pLY10LejR",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 17,
+      "userId": 5,
+      "brandId": 5,
+      "categoryId": 4,
+      "conditionId": 4,
+      "model": "P Series",
+      "year": "2019",
+      "forSale": false,
+      "description": "Very good condition occasional use",
+      "image": "",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 18,
+      "userId": 6,
+      "brandId": 5,
+      "categoryId": 1,
+      "conditionId": 2,
+      "model": "SL-500",
+      "year": "1978",
+      "forSale": false,
+      "description": "70s Yamaha Les Paul clone",
+      "image": "https://drive.google.com/open?id=1C6kGe6U5N05ltE--DMapQAhBwZVJU8pT",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 19,
+      "userId": 6,
+      "brandId": 1,
+      "categoryId": 4,
+      "conditionId": 2,
+      "model": "Rhodes 73 Mk 1 stage",
+      "year": "1976",
+      "forSale": false,
+      "description": "Fantastic Rhodes I bought when I got my new studio",
+      "image": "https://drive.google.com/open?id=1FqgDx428Jm72XEfXVm-Xqx7KiWCshWZT",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 20,
+      "userId": 6,
+      "brandId": 5,
+      "categoryId": 2,
+      "conditionId": 2,
+      "model": "PB400",
+      "year": "1979",
+      "forSale": false,
+      "description": "70s Yamaha P bass (I’m sensing a theme here)",
+      "image": "https://drive.google.com/open?id=1WCPbznnMwqyXtXRFCYvSOYSV2AttNECs",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 21,
+      "userId": 6,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "American Telecaster",
+      "year": "2003",
+      "forSale": false,
+      "description": "Early 2000s American tele with a bigsby and upgraded pickups",
+      "image": "https://drive.google.com/open?id=1y1nZvKMtPmnUPvV7525PRIyN14YlRhhX",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 22,
+      "userId": 6,
+      "brandId": 4,
+      "categoryId": 2,
+      "conditionId": 3,
+      "model": "EA260",
+      "year": "1972",
+      "forSale": false,
+      "description": "Early 70s epiphone hollowbody bass, the body is a replacement from a different bass so I could save the necks",
+      "image": "https://drive.google.com/open?id=1C7bW7xJg4_FDYfho6A9q2tivmT6YaXEX",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 23,
+      "userId": 6,
+      "brandId": 14,
+      "categoryId": 4,
+      "conditionId": 2,
+      "model": "200A",
+      "year": "1975",
+      "forSale": false,
+      "description": "Gorgeous Wurlitzer I picked up in college, everyone’s favorite keyboard",
+      "image": "",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 24,
+      "userId": 6,
+      "brandId": 15,
+      "categoryId": 4,
+      "conditionId": 2,
+      "model": "C2 with Leslie 51c",
+      "year": "1953",
+      "forSale": false,
+      "description": "Hammond organ, the Leslie is modified for two speed. It’s unbelievably loud",
+      "image": "https://drive.google.com/open?id=13OCPmmSVvDWcp2PwepQFolAk0MqNB0Nw",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 25,
+      "userId": 6,
+      "brandId": 5,
+      "categoryId": 3,
+      "conditionId": 2,
+      "model": "Maple custom absolute noveaux",
+      "year": "2004",
+      "forSale": false,
+      "description": "One of the house kits for the studio, the shells are 18, 17, and 15 inch. Absolutely amazing sounding kit",
+      "image": "https://drive.google.com/open?id=1U_Q_2ey3ELdwt4ea0hAcSi1SaX5RrIuF",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 26,
+      "userId": 6,
+      "brandId": 1,
+      "categoryId": 6,
+      "conditionId": 2,
+      "model": "Twin reverb",
+      "year": "1973",
+      "forSale": false,
+      "description": "Picked this twin up off a guy who got tired of gigging with it. Surprisingly great for bass and any clean fender sounds",
+      "image": "https://drive.google.com/open?id=1Wj1hyqu7Hy0o1Sxb_Elw2-FOLtzE2MoM",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 27,
+      "userId": 6,
+      "brandId": 16,
+      "categoryId": 7,
+      "conditionId": 2,
+      "model": "Series 70",
+      "year": "1980",
+      "forSale": false,
+      "description": "The centerpiece of the studio, a 28 channel Trident Series 70, basically it’s a baby 80b. I picked it up a couple years ago and it’s the best thing I own. I have millions more pieces but this is a good smattering of the highlights of the studio",
+      "image": "https://drive.google.com/open?id=1IxihdKc8P6PKDTQNvQDU2M8Mg3013TkH",
+      "timestamp": "2024-07-17"
+    },
+    {
+      "id": 28,
+      "userId": 7,
+      "brandId": 17,
+      "categoryId": 4,
+      "conditionId": 5,
+      "model": "X5",
+      "year": "1994",
+      "forSale": false,
+      "description": "Painted the keys blue when I was a teen, big mistake, but hey I love the thing unconditionally and it adds character.",
+      "image": "",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 29,
+      "userId": 7,
+      "brandId": 18,
+      "categoryId": 7,
+      "conditionId": 1,
+      "model": "R84",
+      "year": "2014",
+      "forSale": false,
+      "description": "My pride and joy",
+      "image": "https://drive.google.com/open?id=1ZMLX89bKPswzGAZKv70fRIRuN-JjTBlb",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 30,
+      "userId": 7,
+      "brandId": 5,
+      "categoryId": 3,
+      "conditionId": 3,
+      "model": "Stage Custom",
+      "year": "2014",
+      "forSale": false,
+      "description": "Five piece set in a beautiful satin red finish.",
+      "image": "https://drive.google.com/open?id=1ZMLX89bKPswzGAZKv70fRIRuN-JjTBlb",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 31,
+      "userId": 8,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 4,
+      "model": "Telecaster (MIM)",
+      "year": "2011",
+      "forSale": false,
+      "description": "A tried and true workhorse with a double humbucker twist",
+      "image": "https://drive.google.com/open?id=1q3TDm0zF8q8m--GmSI-WE56xFDaOT0OT",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 32,
+      "userId": 8,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 1,
+      "model": "Duo Sonic",
+      "year": "2018",
+      "forSale": false,
+      "description": "Lightweight, spunky, and a joy to play. My go-to bedroom guitar.",
+      "image": "https://drive.google.com/open?id=1JUD5eZ5Jbuj1eXtFnr6kUjHYSY28sTUQ",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 33,
+      "userId": 8,
+      "brandId": 19,
+      "categoryId": 8,
+      "conditionId": 3,
+      "model": "Jupiter JTS-587-585",
+      "year": "",
+      "forSale": false,
+      "description": "A dependable tenor saxophone: sure to ruin your dog’s day and get on your neighbor’s bad side very quickly",
+      "image": "https://drive.google.com/open?id=1YRgfHuEIhFCsonqBHHR5aI20uXo0wtxX",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 34,
+      "userId": 8,
+      "brandId": 20,
+      "categoryId": 9,
+      "conditionId": 4,
+      "model": "Bouzouki M1089",
+      "year": "2010",
+      "forSale": false,
+      "description": "An Irish Bouzouki. Irish session musicians adopted the Greek instrument into their circles and started tuning them similar to octave mandolins. This one somehow survived a house fire, but it still has some good sounds coming out of it!",
+      "image": "https://drive.google.com/open?id=1NnGbUMe-ayJ2aG69DE49n-vfakjOgHNY",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 35,
+      "userId": 8,
+      "brandId": 21,
+      "categoryId": 9,
+      "conditionId": 2,
+      "model": "UKE TTN MAH",
+      "year": "",
+      "forSale": false,
+      "description": "A tenor ukulele. I love it for its simplicity and portability.",
+      "image": "https://drive.google.com/open?id=12ibzLr8Q9Yit2V3cAa2ltsmcaf6b6hCg",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 36,
+      "userId": 8,
+      "brandId": 22,
+      "categoryId": 5,
+      "conditionId": 3,
+      "model": "Dispatch Master",
+      "year": "",
+      "forSale": false,
+      "description": "Such a unique and simple reverb/delay combo",
+      "image": "https://drive.google.com/open?id=1-piTbLfxYVYIOgwqDoJXAZth95At3a3r",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 37,
+      "userId": 8,
+      "brandId": 23,
+      "categoryId": 5,
+      "conditionId": 3,
+      "model": "Analog Chorus",
+      "year": "",
+      "forSale": false,
+      "description": "My favorite chorus pedal. Goes from subtle to wonky and washed out",
+      "image": "https://drive.google.com/open?id=14CUu7Ca4LN3XnkYpCrIYRQCs8zyzetWQ",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 37,
+      "userId": 8,
+      "brandId": 23,
+      "categoryId": 5,
+      "conditionId": 5,
+      "model": "Phase 90",
+      "year": "",
+      "forSale": false,
+      "description": "The de facto phase pedal",
+      "image": "https://drive.google.com/open?id=1qCBN5AmpbkpKkAQUzEl6fYmnbFeeba_Z",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 38,
+      "userId": 8,
+      "brandId": 24,
+      "categoryId": 5,
+      "conditionId": 4,
+      "model": "SP Compressor",
+      "year": "",
+      "forSale": false,
+      "description": "A fantastic and subtle compression. Makes your playing sound and feel just a little bit snappier. Perfect for jazz, bluegrass, rock, and just about anything, really. This one is my “always on” pedal.",
+      "image": "https://drive.google.com/open?id=1hitlwdMBGQ-JAs_j-CQKU94W6oalsD1T",
+      "timestamp": "2024-07-18"
+    },
+    {
+      "id": 39,
+      "userId": 9,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 4,
+      "model": "TLG-70P",
+      "year": "1996",
+      "forSale": false,
+      "description": "Modded with Emerson Wiring Harness, a set of Creamery Vintage II Broadcaster pickups and black Warmoth pickguard.",
+      "image": "https://drive.google.com/open?id=1UxeYyAHc3E-Hg8CXiNi3_o6QJNFoxk28",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 40,
+      "userId": 9,
+      "brandId": 25,
+      "categoryId": 1,
+      "conditionId": 1,
+      "model": "ME537",
+      "year": "2010",
+      "forSale": false,
+      "description": "Gem Mint",
+      "image": "https://drive.google.com/open?id=1qLC6PkzR6KXChLokyhW9Fe5gA9nTOF5Q",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 40,
+      "userId": 9,
+      "brandId": 1,
+      "categoryId": 2,
+      "conditionId": 2,
+      "model": "JAB J-Craft Jaguar Bass",
+      "year": "2006",
+      "forSale": false,
+      "description": "Modded with Emerson P-Bass Harness, Delano JMVC 4 FE/M2 pickup set, and active circuitry removed.",
+      "image": "https://drive.google.com/open?id=1cP75-MOAhF4FzKYYOOu5Gxo5ZoDSNPg4",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 41,
+      "userId": 9,
+      "brandId": 1,
+      "categoryId": 2,
+      "conditionId": 2,
+      "model": "JAB J-Craft Jaguar Bass",
+      "year": "2006",
+      "forSale": false,
+      "description": "Modded with Emerson P-Bass Harness, Delano JMVC 4 FE/M2 pickup set, and active circuitry removed.",
+      "image": "https://drive.google.com/open?id=1cP75-MOAhF4FzKYYOOu5Gxo5ZoDSNPg4",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 42,
+      "userId": 9,
+      "brandId": 26,
+      "categoryId": 3,
+      "conditionId": 2,
+      "model": "5",
+      "year": "2023",
+      "forSale": false,
+      "description": "Electronic Drum Set - White Sparkle, Upgrade 14 inch snare and added 20 inch Ride",
+      "image": "https://drive.google.com/open?id=1sC2ltzfhv2Jz_teBvCpDwyyKuNSrQIfu",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 43,
+      "userId": 9,
+      "brandId": 27,
+      "categoryId": 6,
+      "conditionId": "",
+      "model": "MIG-60",
+      "year": "1990s",
+      "forSale": false,
+      "description": "60 Watt Guitar head",
+      "image": "https://drive.google.com/open?id=1jk1QM6NUuuTqN_SR6-xitmnaJx9qXeqJ",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 44,
+      "userId": 9,
+      "brandId": 7,
+      "categoryId": 6,
+      "conditionId": 2,
+      "model": "AC15C1",
+      "year": "2015",
+      "forSale": false,
+      "description": "15 Watt 2-Channel Guitar Combo Amplifier",
+      "image": "https://drive.google.com/open?id=1sXCaP8xyXmLP12ATn3Y5uKBAqmplPHKI",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 45,
+      "userId": 9,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 5,
+      "model": "JM66",
+      "year": "1994",
+      "forSale": false,
+      "description": "Modded with Rothstein wiring harness, Seymour Duncan Antiquity I pickup set and an anodized gold pickguard.",
+      "image": "https://drive.google.com/open?id=1EEVIwuXt_04VIkkjy7jxFD_FuCAQ2WcN",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 46,
+      "userId": 9,
+      "brandId": 28,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "Gimme",
+      "year": "1970s",
+      "forSale": true,
+      "description": "Refretted in 2022 by Trevor Healy. Otherwise completely original.",
+      "image": "https://drive.google.com/open?id=1jCHXfJj907LqMKAzpt1n-VJs4DADdyNd",
+      "timestamp": "2024-07-19"
+    },
+    {
+      "id": 47,
+      "userId": 9,
+      "brandId": 29,
+      "categoryId": 5,
+      "conditionId": "",
+      "model": "Longsword",
+      "year": "2017",
+      "forSale": false,
+      "description": "",
+      "image": "https://drive.google.com/open?id=1lJovLVVHh9V-az9saZ558Iui_BlqUYPs",
+      "timestamp": "2024-07-19"
+    }
+  ]
+}
