@@ -890,10 +890,11 @@
       "categoryId": 5,
       "conditionId": 3,
       "model": "Hoof Reaper",
-      "year": "",
+      "year": "2013",
       "forSale": true,
       "description": "Dual fuzz with octave",
       "image": "",
+      "timestamp": "2024-07-24",
       "id": 50
     }
   ]
