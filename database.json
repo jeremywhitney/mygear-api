@@ -5,7 +5,7 @@
       "name": "Jeremy Whitney",
       "email": "jeremywhitney@email.com",
       "location": "Nashville, TN",
-      "about": "About me"
+      "about": "- About me\n- Also about me\n- Some more about me\n- Aaaaaand just a weeeee bit more!"
     },
     {
       "id": 2,
@@ -248,7 +248,6 @@
   ],
   "posts": [
     {
-      "id": 1,
       "userId": 1,
       "brandId": 1,
       "categoryId": 1,
@@ -258,7 +257,9 @@
       "forSale": false,
       "description": "MIM Standard; Arctic White; Lollar Pickups; Emerson wiring harness",
       "image": "",
-      "timestamp": "2024-07-21"
+      "timestamp": "2024-07-21",
+      "lastEditDate": "2024-07-26",
+      "id": 1
     },
     {
       "id": 2,
