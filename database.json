@@ -62,6 +62,13 @@
       "email": "alexnosenzo@email.com",
       "location": "Portland, CT",
       "about": "I play guitar, bass, drums and do some home recording. I listen to a bit of everything, but my truest love is within specific subgenre's of metal and punk."
+    },
+    {
+      "name": "Eric Gieg",
+      "email": "ericgieg@email.com",
+      "location": "Kennett Square, Pennsylvania",
+      "about": "Musician with great ideas and poor execution. ",
+      "id": 10
     }
   ],
   "brands": [
