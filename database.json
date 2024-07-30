@@ -5,7 +5,7 @@
       "name": "Jeremy Whitney",
       "email": "jeremywhitney@email.com",
       "location": "Nashville, TN",
-      "about": "- About me\n- Also about me\n- Some more about me\n- Aaaaaand just a weeeee bit more!"
+      "about": "- About me\n- Also about me\n- Some more about me\n- Aaaaaand just a weeeee bit more!\n- AAAAAAAANNNNNNNNND I'm not lame.... I swear"
     },
     {
       "id": 2,
@@ -69,6 +69,20 @@
       "location": "Kennett Square, Pennsylvania",
       "about": "Musician with great ideas and poor execution. ",
       "id": 10
+    },
+    {
+      "name": "Tyler Osmond",
+      "email": "tylerosmond@email.com",
+      "location": "Nashville, TN",
+      "about": "Touring/Studio musician",
+      "id": 11
+    },
+    {
+      "name": "John Farrell",
+      "email": "johnfarrell@email.com",
+      "location": "Sleepy Hollow, New York",
+      "about": "I play guitar as a hobby but seriously love my gear. I play mostly blues rock, but am a fan of jam band music as well. My biggest musical influences are The Beatles, Led Zeppelin, My Morning Jacket, Phish, The Hemingways, Grateful Dead, and Neil Young",
+      "id": 12
     }
   ],
   "brands": [
@@ -191,6 +205,34 @@
     {
       "name": "PRS",
       "id": 30
+    },
+    {
+      "name": "Fender Custom Shop",
+      "id": 31
+    },
+    {
+      "name": "Arroyo",
+      "id": 32
+    },
+    {
+      "name": "Acme Audio",
+      "id": 33
+    },
+    {
+      "name": "Ampeg",
+      "id": 34
+    },
+    {
+      "name": "Beetronics",
+      "id": 35
+    },
+    {
+      "name": "Squier",
+      "id": 36
+    },
+    {
+      "name": "Egnater",
+      "id": 37
     }
   ],
   "categories": [
@@ -346,7 +388,7 @@
       "year": "",
       "forSale": false,
       "description": "My first guitar!",
-      "image": "",
+      "image": "/images/1/yamaha.JPG",
       "timestamp": "2024-07-21",
       "lastEditDate": "2024-07-30",
       "id": 7
@@ -833,19 +875,6 @@
       "timestamp": "2024-07-19"
     },
     {
-      "id": 43,
-      "userId": 9,
-      "brandId": 27,
-      "categoryId": 6,
-      "conditionId": "",
-      "model": "MIG-60",
-      "year": "1990s",
-      "forSale": false,
-      "description": "60 Watt Guitar head",
-      "image": "/images/9/IMG_5073 - domesticpiggy.jpeg",
-      "timestamp": "2024-07-19"
-    },
-    {
       "id": 44,
       "userId": 9,
       "brandId": 7,
@@ -885,19 +914,6 @@
       "timestamp": "2024-07-19"
     },
     {
-      "id": 47,
-      "userId": 9,
-      "brandId": 29,
-      "categoryId": 5,
-      "conditionId": "",
-      "model": "Longsword",
-      "year": "2017",
-      "forSale": false,
-      "description": "",
-      "image": "/images/9/IMG_5077 - domesticpiggy.jpeg",
-      "timestamp": "2024-07-19"
-    },
-    {
       "userId": 1,
       "brandId": 22,
       "categoryId": 5,
@@ -910,6 +926,162 @@
       "timestamp": "2024-07-24",
       "lastEditDate": "2024-07-30",
       "id": 50
+    },
+    {
+      "userId": 10,
+      "brandId": 32,
+      "categoryId": 1,
+      "conditionId": 5,
+      "model": "Les Paul Copy",
+      "year": "2011",
+      "forSale": false,
+      "description": "This is my electric guitar. We share a lot of memories. Though, I regret using the headstock to play my drummers crash cymbal when I got carried away at shows.",
+      "image": "/images/10/guitar - Eric Gieg.jfif",
+      "timestamp": "2024-07-23",
+      "id": 51
+    },
+    {
+      "userId": 11,
+      "brandId": 1,
+      "categoryId": 2,
+      "conditionId": 4,
+      "model": "Deluxe P-Bass",
+      "year": "2004",
+      "forSale": false,
+      "description": "My go to for all live shows. Used to be an active bass but gutted it and turned it into passive. Been using flat wounds on it for years and don't plan on changing anytime soon.",
+      "image": "/images/11/pbass - Tyler Osmond.webp",
+      "timestamp": "2024-07-23",
+      "id": 52
+    },
+    {
+      "userId": 11,
+      "brandId": 33,
+      "categoryId": 7,
+      "conditionId": 2,
+      "model": "Acme Audio Motown DI WB-3 Passive DI Box",
+      "year": "2021",
+      "forSale": false,
+      "description": "The Acme Audio Motown DI WB-3 is a re-creation of the in-house-designed direct boxes used for electric guitar and bass at Motown Records starting in the early 1960s. This is what drove the legendary Motown sound. It's the sound of James Jamerson, Dennis Coffey, Bob Babbit, Robert White, Joe Messina, and the other largely unsung (and uncredited) musicians collectively known as the Funk Brothers, Motown's legendary in-house rhythm section. I've used this DI on several records and never get sick of it.",
+      "image": "/images/11/acme-motown-di - Tyler Osmond.webp",
+      "timestamp": "2024-07-23",
+      "id": 53
+    },
+    {
+      "userId": 11,
+      "brandId": 1,
+      "categoryId": 2,
+      "conditionId": 5,
+      "model": "ZZ Top",
+      "year": "1969",
+      "forSale": true,
+      "description": "Why settle for just the low end when you can have it all! The classic 17 string Fender ZZ top Bass famously played by Elwood Francis, can be all yours! Strap and beard trimmings included!",
+      "image": "/images/11/attachment-ZZ-Top-bass - Tyler Osmond.jpg",
+      "timestamp": "2024-07-23",
+      "id": 54
+    },
+    {
+      "userId": 11,
+      "brandId": 34,
+      "categoryId": 6,
+      "conditionId": 4,
+      "model": "Portaflex B15N Fliptop B-15N",
+      "year": "1965",
+      "forSale": true,
+      "description": "This amp came in with a cut power cord so I had a local amp shop go through it all and service it. At some point one of its transformers was replaced with an old Schumacher. Its handle has rotted away and the grill was also changed out. For the tubes you have a Fender 5AR4, Philips 6L6's and Tung-Sol Octal 6SL7's - Its all old glass and tests well - It's the good stuff! Pots and serial number put this amp at 1965. Amp shows signs of wear and tear with various dings, dents & chips throughout. 100% Functioning and ready to rock n' roll!",
+      "image": "/images/11/ampeg - Tyler Osmond.jpg",
+      "timestamp": "2024-07-23",
+      "id": 55
+    },
+    {
+      "userId": 11,
+      "brandId": 35,
+      "categoryId": 5,
+      "conditionId": 2,
+      "model": "Whoctahell Octave Fuzz",
+      "year": "2019",
+      "forSale": true,
+      "description": "The Beetronics WhoctaHell is a low octave fuzz pedal that combines overdrive and fuzz with a squared wave low octave. It has independent controls for the fuzz and octave, and a toggle switch to select one or two low octaves.",
+      "image": "/images/11/fuzz - Tyler Osmond.webp",
+      "timestamp": "2024-07-23",
+      "id": 56
+    },
+    {
+      "userId": 11,
+      "brandId": 36,
+      "categoryId": 2,
+      "conditionId": 1,
+      "model": "Paranormal Rascal",
+      "year": "2024",
+      "forSale": true,
+      "description": "The Paranormal Rascal starts with a poplar body that takes offset cues from the Fender Bass VI and features a string-through-body bridge like the Mustang. Meanwhile, the headstock gets its shape from the Fender Coronado Bass. Lastly, these two humbuckers are Fender Designed Wide Range bass pickups that deliver fat yet detailed sound.",
+      "image": "/images/11/rascal - Tyler Osmond.jpg",
+      "timestamp": "2024-07-23",
+      "id": 57
+    },
+    {
+      "userId": 11,
+      "brandId": 2,
+      "categoryId": 2,
+      "conditionId": 3,
+      "model": "The Grabber",
+      "year": "1974",
+      "forSale": false,
+      "description": "Vintage pre-owned original circa 1974 Gibson The Grabber Bass in original Natural finish. Original Gibson pickup that slides back and forth has a classic vintage tone. Sliding the pickup makes for a deeper to more trebly sound.",
+      "image": "/images/11/grabber - Tyler Osmond.webp",
+      "timestamp": "2024-07-23",
+      "id": 58
+    },
+    {
+      "userId": 12,
+      "brandId": 1,
+      "categoryId": 1,
+      "conditionId": 2,
+      "model": "Stratocaster",
+      "year": "2006",
+      "forSale": false,
+      "description": "2006 50th anniversary model with a SSS setup. It initially came with a black pick guard but I have since switched it to mint. This is my daily driver, my heart and soul.",
+      "image": "/images/12/20200508_081111 (1) - John Farrell.jpg",
+      "timestamp": "2024-07-24",
+      "id": 59
+    },
+    {
+      "userId": 12,
+      "brandId": 2,
+      "categoryId": 1,
+      "conditionId": 1,
+      "model": "Les Paul Standard",
+      "year": "2021",
+      "forSale": false,
+      "description": "Standard 50's model with a baseball bat neck. Tobacco burst with beautiful flame-cut grain. Very growly with Burstbucker pickups. A gift from a dear friend.",
+      "image": "/images/12/20220209_123926 - John Farrell.jpg",
+      "timestamp": "2024-07-24",
+      "id": 60
+    },
+    {
+      "userId": 12,
+      "brandId": 30,
+      "categoryId": 1,
+      "conditionId": 2,
+      "model": "Special 22",
+      "year": "2019",
+      "forSale": false,
+      "description": "A semi hollow with an autumn burst finish. 2 58/15 LT pickups (neck/bridge) and a PRS Narrowfield pickup in the middle position. 5 way selector toggle operates in a funky fashion. The center position activates the neck and bridge pickups which  shutting off the narrowfield in the middle (similar to a les paul). It also features 2 coil tap toggles to operate the humbuckers as single coil. ",
+      "image": "/images/12/20191102_195220 - John Farrell.jpg",
+      "timestamp": "2024-07-24",
+      "id": 61
+    },
+    {
+      "userId": 12,
+      "brandId": 37,
+      "categoryId": 6,
+      "conditionId": 4,
+      "model": "Rebel 20",
+      "year": "2009",
+      "forSale": false,
+      "description": "A great little lunch box stack. This amp features an attenuator, 4 tubes, and a tube blend knob. The tube setup is interesting 2x EL84s and 2 6L6s. The tube blend allows you to bring in more or less of each to mimic an American or British sound. The 12 oclock position brings both sets at full blast. I call this \"The Atlantic\"",
+      "image": "/images/12/20200424_174722 - John Farrell.jpg",
+      "timestamp": "2024-07-24",
+      "id": 62
     }
   ]
 }
