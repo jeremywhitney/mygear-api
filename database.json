@@ -1083,5 +1083,25 @@
       "timestamp": "2024-07-24",
       "id": 62
     }
+  ],
+
+  "wishlistsFromWishlist": [
+    {
+      "id": 1,
+      "userId": 1,
+      "year": 1959,
+      "brandId": 2,
+      "model": "Les Paul Standard",
+      "notes": "A guy can dream, right?"
+    }
+  ],
+
+  "wishlistsFromPost": [
+    {
+      "id": 1,
+      "userId": 1,
+      "postId": 45,
+      "notes": ""
+    }
   ]
 }
