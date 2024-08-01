@@ -1082,19 +1082,6 @@
       "image": "/images/12/20200424_174722 - John Farrell.jpg",
       "timestamp": "2024-07-24",
       "id": 62
-    },
-    {
-      "userId": 9,
-      "brandId": 29,
-      "categoryId": 5,
-      "conditionId": "",
-      "model": "Longsword",
-      "year": "2011",
-      "forSale": false,
-      "description": "",
-      "image": "/images/9/IMG_5077 - domesticpiggy.jpeg",
-      "timestamp": "2024-07-31",
-      "id": 63
     }
   ],
   "wishlistsFromWishlist": [
@@ -1113,6 +1100,12 @@
       "userId": 1,
       "postId": 45,
       "notes": ""
+    },
+    {
+      "userId": 10,
+      "postId": 8,
+      "notes": "",
+      "id": 2
     }
   ]
 }
