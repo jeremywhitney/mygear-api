@@ -5,7 +5,7 @@
       "name": "Jeremy Whitney",
       "email": "jeremywhitney@email.com",
       "location": "Nashville, TN",
-      "about": "- About me\n- Also about me\n- Some more about me\n- Aaaaaand just a weeeee bit more!\n- AAAAAAAANNNNNNNNND I'm not lame.... I swear"
+      "about": "- About me\n- Also about me\n- Some more about me\n- Aaaaaand just a weeeee bit more!\n- AAAAAAAANNNNNNNNND I'm not lame... I swear"
     },
     {
       "id": 2,
@@ -83,6 +83,13 @@
       "location": "Sleepy Hollow, New York",
       "about": "I play guitar as a hobby but seriously love my gear. I play mostly blues rock, but am a fan of jam band music as well. My biggest musical influences are The Beatles, Led Zeppelin, My Morning Jacket, Phish, The Hemingways, Grateful Dead, and Neil Young",
       "id": 12
+    },
+    {
+      "name": "Marty McFly",
+      "email": "martymcfly@email.com",
+      "location": "Hill Valley, CA",
+      "about": "- Likes: Travel (time), cars (DeLorean’s are my favorite), guitars, hoverboarding\n- Favorite artists: Van Halen, Huey Lewis and the News, Chuck Berry, The Pinheads, Marvin Berry & the Starlighters",
+      "id": 13
     }
   ],
   "brands": [
@@ -233,6 +240,18 @@
     {
       "name": "Egnater",
       "id": 37
+    },
+    {
+      "name": "Erlwine",
+      "id": 38
+    },
+    {
+      "name": "Ibanez",
+      "id": 39
+    },
+    {
+      "name": "Marshall",
+      "id": 40
     }
   ],
   "categories": [
@@ -341,17 +360,18 @@
       "timestamp": "2024-07-21"
     },
     {
-      "id": 4,
       "userId": 1,
       "brandId": 3,
       "categoryId": 1,
       "conditionId": 3,
       "model": "G5135-CVT Electromatic Corvette",
-      "year": 2009,
+      "year": "2009",
       "forSale": false,
       "description": "Cherry Stain; B5 Bigsby; replaced output jack plate",
       "image": "/images/1/gretsch.JPG",
-      "timestamp": "2024-07-21"
+      "timestamp": "2024-07-21",
+      "lastEditDate": "2024-08-02",
+      "id": 4
     },
     {
       "id": 5,
@@ -1082,6 +1102,32 @@
       "image": "/images/12/20200424_174722 - John Farrell.jpg",
       "timestamp": "2024-07-24",
       "id": 62
+    },
+    {
+      "userId": 13,
+      "brandId": 2,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "ES-345",
+      "year": "1958",
+      "forSale": false,
+      "description": "Super rare ES-345 TDC with Bigsby",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-ea7c9361f3b81e67760d413657e3ea5f-lq",
+      "timestamp": "2024-08-02",
+      "id": 63
+    },
+    {
+      "userId": 13,
+      "brandId": 38,
+      "categoryId": 1,
+      "conditionId": 3,
+      "model": "Chiquita",
+      "year": "1984",
+      "forSale": true,
+      "description": "Rock n roll!",
+      "image": "https://www.erlewineguitars.com/pgs/img/large/chiquita/new-yellow.jpg",
+      "timestamp": "2024-08-02",
+      "id": 64
     }
   ],
   "wishlistsFromWishlist": [
@@ -1092,6 +1138,30 @@
       "brandId": 2,
       "model": "Les Paul Standard",
       "notes": "A guy can dream, right?"
+    },
+    {
+      "userId": 1,
+      "year": 1959,
+      "brandId": 1,
+      "model": "Bassman",
+      "notes": "I'd settle for a reissue",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "year": 1982,
+      "brandId": 39,
+      "model": "JEM",
+      "notes": "SHRED",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "year": null,
+      "brandId": 40,
+      "model": "JCM800",
+      "notes": "",
+      "id": 4
     }
   ],
   "wishlistsFromPost": [
@@ -1106,6 +1176,12 @@
       "postId": 8,
       "notes": "",
       "id": 2
+    },
+    {
+      "userId": 1,
+      "postId": 64,
+      "notes": "",
+      "id": 3
     }
   ]
 }
