@@ -1130,58 +1130,5 @@
       "id": 64
     }
   ],
-  "wishlistsFromWishlist": [
-    {
-      "id": 1,
-      "userId": 1,
-      "year": 1959,
-      "brandId": 2,
-      "model": "Les Paul Standard",
-      "notes": "A guy can dream, right?"
-    },
-    {
-      "userId": 1,
-      "year": 1959,
-      "brandId": 1,
-      "model": "Bassman",
-      "notes": "I'd settle for a reissue",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "year": 1982,
-      "brandId": 39,
-      "model": "JEM",
-      "notes": "SHRED",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "year": null,
-      "brandId": 40,
-      "model": "JCM800",
-      "notes": "",
-      "id": 4
-    }
-  ],
-  "wishlistsFromPost": [
-    {
-      "id": 1,
-      "userId": 1,
-      "postId": 45,
-      "notes": ""
-    },
-    {
-      "userId": 10,
-      "postId": 8,
-      "notes": "",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "postId": 64,
-      "notes": "",
-      "id": 3
-    }
-  ]
+  "wishlists": []
 }
