@@ -19,7 +19,7 @@
       "name": "James Hilton",
       "email": "jameshilton@email.com",
       "location": "New Haven, CT",
-      "about": "I am a weekend warrior who listens to everything but country music. My influences are all over the map... King Crimson to Periphery, The Beatles to Umphreys McGee, Frank Zappa to Rise Against, etc. I play mainly punk and metal but have a background in jazz and classical music."
+      "about": "I am a weekend warrior who listens to everything but country music. My influences are all over the map... King Crimson to Periphery, The Beatles to Umphreys McGee, Frank Zappa to Rise Against, etc. \n\nI play mainly punk and metal but have a background in jazz and classical music.\n\nMy dog's name is Colby. "
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "name": "Ryan Phillips",
       "email": "ryanphillips@email.com",
       "location": "Nashville, TN",
-      "about": "Bedroom jammin in my jam jams. I like alternative rock, jazz, chillout, traditional folk, hip hop, classical, and psychedelic funk. I am influenced by artists such as Bjork, Khruangbin, Radiohead, The Band, Natalia Lafourcade, DJ Premier, J Dilla, Johnny Marr, Tinariwen, LCD Soundsystem, and so many others. I am not in a band. My dog’s name is Flora. She is half Australian cattle dog half treeing walker coon hound"
+      "about": "Bedroom jammin in my jam jams. \n\nI like alternative rock, jazz, chillout, traditional folk, hip hop, classical, and psychedelic funk. \n\nI am influenced by artists such as Bjork, Khruangbin, Radiohead, The Band, Natalia Lafourcade, DJ Premier, J Dilla, Johnny Marr, Tinariwen, LCD Soundsystem, and so many others. \n\nI am not in a band. \n\nMy dog’s name is Flora. She is half Australian cattle dog half treeing walker coon hound"
     },
     {
       "id": 9,
@@ -330,7 +330,7 @@
       "description": "MIM Standard; Arctic White; Lollar Pickups; Emerson wiring harness",
       "image": "/images/1/strat.JPG",
       "timestamp": "2024-07-21",
-      "lastEditDate": "2024-07-26",
+      "lastEditDate": "2024-08-08",
       "id": 1
     },
     {
@@ -713,7 +713,6 @@
       "timestamp": "2024-07-18"
     },
     {
-      "id": 31,
       "userId": 8,
       "brandId": 1,
       "categoryId": 1,
@@ -723,7 +722,9 @@
       "forSale": false,
       "description": "A tried and true workhorse with a double humbucker twist",
       "image": "/images/8/IMG_6050 - Ryan Phillips.jpeg",
-      "timestamp": "2024-07-18"
+      "timestamp": "2024-07-18",
+      "lastEditDate": "2024-08-08",
+      "id": 31
     },
     {
       "id": 32,
@@ -1130,5 +1131,30 @@
       "id": 64
     }
   ],
-  "wishlists": []
+  "wishlists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "year": 1959,
+      "brandId": 2,
+      "model": "Les Paul Standard",
+      "notes": "A guy can dream, right?"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "year": null,
+      "brandId": 18,
+      "model": "R84",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "year": 1964,
+      "brandId": 1,
+      "model": "Stratocaster",
+      "notes": "Excalibur! Classic White. Pre-CBS corporate buyout. Would raise the bridge and file down the nut to take the buzz out of the low E."
+    }
+  ]
 }
