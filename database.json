@@ -254,6 +254,32 @@
       "id": 40
     }
   ],
+  "wishlists": [
+    {
+      "id": 1,
+      "userId": 1,
+      "year": 1959,
+      "brandId": 2,
+      "model": "Les Paul Standard",
+      "notes": "A guy can dream, right?"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "year": null,
+      "brandId": 18,
+      "model": "R84",
+      "notes": ""
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "year": 1964,
+      "brandId": 1,
+      "model": "Stratocaster",
+      "notes": "Excalibur! Classic White. Pre-CBS corporate buyout. Would raise the bridge and file down the nut to take the buzz out of the low E."
+    }
+  ],
   "categories": [
     {
       "id": 1,
@@ -327,14 +353,13 @@
       "model": "Stratocaster",
       "year": 2004,
       "forSale": false,
-      "description": "MIM Standard; Arctic White; Lollar Pickups; Emerson wiring harness",
+      "description": "- MIM Standard\n- Arctic White\n- Mods: Lollar Pickups; Emerson wiring harness",
       "image": "/images/1/strat.JPG",
       "timestamp": "2024-07-21",
-      "lastEditDate": "2024-08-08",
+      "lastEditDate": "2024-08-09",
       "id": 1
     },
     {
-      "id": 2,
       "userId": 1,
       "brandId": 1,
       "categoryId": 1,
@@ -342,9 +367,11 @@
       "model": "Telecaster Custom",
       "year": 1986,
       "forSale": false,
-      "description": "MIJ TL-62B; Candy Apple Red",
+      "description": "- MIJ TL-62B\n- Candy Apple Red",
       "image": "/images/1/tele.JPG",
-      "timestamp": "2024-07-21"
+      "timestamp": "2024-07-21",
+      "lastEditDate": "2024-08-09",
+      "id": 2
     },
     {
       "id": 3,
@@ -365,16 +392,15 @@
       "categoryId": 1,
       "conditionId": 3,
       "model": "G5135-CVT Electromatic Corvette",
-      "year": "2009",
+      "year": 2009,
       "forSale": false,
-      "description": "Cherry Stain; B5 Bigsby; replaced output jack plate",
+      "description": "Cherry Stain; B5 Bigsby; replaced output jack plate.",
       "image": "/images/1/gretsch.JPG",
       "timestamp": "2024-07-21",
-      "lastEditDate": "2024-08-02",
+      "lastEditDate": "2024-08-11",
       "id": 4
     },
     {
-      "id": 5,
       "userId": 1,
       "brandId": 4,
       "categoryId": 1,
@@ -382,9 +408,11 @@
       "model": "USA Casino",
       "year": 2023,
       "forSale": false,
-      "description": "Royal Tan; going away gift from my time working at Gibson USA",
+      "description": "- Royal Tan \n- Going away gift from my time working at Gibson USA",
       "image": "/images/1/casino.jpeg",
-      "timestamp": "2024-07-21"
+      "timestamp": "2024-07-21",
+      "lastEditDate": "2024-08-09",
+      "id": 5
     },
     {
       "id": 6,
@@ -1129,32 +1157,6 @@
       "image": "https://www.erlewineguitars.com/pgs/img/large/chiquita/new-yellow.jpg",
       "timestamp": "2024-08-02",
       "id": 64
-    }
-  ],
-  "wishlists": [
-    {
-      "id": 1,
-      "userId": 1,
-      "year": 1959,
-      "brandId": 2,
-      "model": "Les Paul Standard",
-      "notes": "A guy can dream, right?"
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "year": null,
-      "brandId": 18,
-      "model": "R84",
-      "notes": ""
-    },
-    {
-      "id": 3,
-      "userId": 1,
-      "year": 1964,
-      "brandId": 1,
-      "model": "Stratocaster",
-      "notes": "Excalibur! Classic White. Pre-CBS corporate buyout. Would raise the bridge and file down the nut to take the buzz out of the low E."
     }
   ]
 }
